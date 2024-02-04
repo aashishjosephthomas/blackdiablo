@@ -1,2 +1,2 @@
 # blackdiablo
-mini project with my friends.
+university project
